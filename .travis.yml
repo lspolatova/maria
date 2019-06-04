@@ -8,4 +8,4 @@
       - gcc
       - clang
 
-  script: make Red_Black_tree.cpp
+  script: make STACK.cpp
