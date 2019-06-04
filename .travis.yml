@@ -1,38 +1,11 @@
 
-language: сpp
-
-
-
+  language: сpp
   os:
-
-
-
       - linux
-
-
-
-      - osx
-
-
-
-      
-
-
+      - osx  
 
   compiler:
-
-
-
       - gcc
-
-
-
       - clang
 
-
-
-      
-
-
-
-  script: make STACK.cpp
+  script: make Red_Black_tree.cpp
