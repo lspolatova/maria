@@ -1,0 +1,38 @@
+
+language: сpp
+
+
+
+  os:
+
+
+
+      - linux
+
+
+
+      - osx
+
+
+
+      
+
+
+
+  compiler:
+
+
+
+      - gcc
+
+
+
+      - clang
+
+
+
+      
+
+
+
+  script: make STACK.cpp
